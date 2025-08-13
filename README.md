@@ -46,5 +46,7 @@
 - [🤯 뭐? 우리 서버가 공격 받고 있다고?](https://sua-su-ding-gi.tistory.com/52)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soonga00&show_icons=true&theme=radical)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=suacho0724)](https://solved.ac/suacho0724)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soonga00&&layout=compact&&theme=radical)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=suacho0724)](https://solved.ac/suacho0724)
+<img src="https://topsolved.mayonedev.com/api/boj?handle=suacho0724&row=15&base_color=default">
+
