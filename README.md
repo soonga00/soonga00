@@ -39,7 +39,8 @@
 > 주요 관심사: API 성능 최적화, 관측성(Logging/Tracing/Metric), 안정적인 배포
 
 ## 📈 What I’m Working On
-- 자바 알고리즘/CS 정리(DB→운영체제→네트워크→Java→Spring)
+- 자바 알고리즘/CS 정리(DB→네트워크→운영체제→Java→Spring)
+- 풀 바이브 코딩 팀 프로젝트
 
 ## 📝 Posts
 - [🔍 로그를 보면 보인다: 우리는 어디를 먼저 최적화해야 할까?](https://sua-su-ding-gi.tistory.com/53)
